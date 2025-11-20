@@ -1,0 +1,24 @@
+﻿Descripcion
+"
+DESCRIPCION DEL DATASET UNIFICADO (2018–2025):
+ESTE DATASET INTEGRA LOS INDICADORES NETW, PIB Y PASIVOS PARA CADA PAIS
+LAS CIFRAS DE PIB ESTAN EN MILLONES DE EUROS
+LOS DATOS DE NETW, PASIVOS Y PIB ESTAN EN LOS VALORES PUBLICADOS POR EL ECB
+
+PIB = https://ec.europa.eu/eurostat/databrowser/view/nama_10_gdp/default/table?lang=en
+NETW = https://ec.europa.eu/eurostat/databrowser/view/gov_10q_gefa_custom_18997631/default/table
+PASIVOS = https://ec.europa.eu/eurostat/databrowser/view/gov_10q_gefa_custom_18987587/default/table
+
+AÑOS DISPONIBLES: 2018 A 2025
+TOTAL DE REGISTROS FINALES: 333
+
+PREVIEW DE LA NUEVA TABLA PIVOTADA (PAIS VS AÑO):
+                              NETW                                                                                         PIB                                                                  Pasivos                                                                                        
+AÑO                           2018        2019       2020        2021        2022        2023        2024       2025      2018      2019      2020      2021      2022      2023      2024         2018         2019        2020        2021         2022         2023         2024        2025
+Pais                                                                                                                                                                                                                                                                                           
+Albania                        NaN         NaN        NaN         NaN         NaN         NaN         NaN        NaN   11157.3   11387.4   11010.1   11997.6   12576.7   13081.7   13611.0          NaN          NaN         NaN         NaN          NaN          NaN          NaN         NaN
+Austria                -195268.175 -198388.150 -218328.00 -227430.550 -202805.325 -206339.350 -225702.825 -236994.45  331887.9  337712.4  316374.9  331950.3  349646.5  346897.4  344611.1  425300.4250  431895.9125  465980.325  489810.125  460386.7000  462013.7250  494355.6875  513888.025
+Belgium                -395204.500 -421099.000 -449674.00 -464503.250 -427255.000 -428528.750 -460286.000 -474560.50  402078.0  411900.3  392158.0  416685.4  433170.4  440595.5  445311.9  578474.6250  614430.8750  657271.000  676865.125  623180.3750  631976.1250  668524.0000  694911.250
+Bosnia and Herzegovina         NaN         NaN        NaN         NaN         NaN         NaN         NaN        NaN   15516.6   15964.3   15483.0   16627.5   17330.3   17675.9   18114.3          NaN          NaN         NaN         NaN          NaN          NaN          NaN         NaN
+Bulgaria                  -708.800     703.925     696.25   -1477.925   -3049.325   -4627.875   -6549.450   -7323.20   44287.2   45967.1   44526.8   48012.5   49973.2   50813.6   52534.7   17629.2375   17699.1750   19671.125   22537.700   24694.5625   28300.1875   32508.5000   35499.450
+"
