@@ -1738,7 +1738,7 @@ mean_networthSK24 = df.loc[
 # # Real GDP Growth Rate
 
 # %%
-df_gr = pd.read_csv('C:\\Users\\damir\\OneDrive\\CUNEF Work\\Machine Learning\\Datasets\\GDP Growth Rate.csv')
+df_gr = pd.read_csv('DATA/GDP Growth Rate.csv')
 
 df_gr = df_gr[~(df_gr['unit'] == 'CLV_PCH_PRE_HAB')]
 df_gr = df_gr.reset_index(drop = True)
