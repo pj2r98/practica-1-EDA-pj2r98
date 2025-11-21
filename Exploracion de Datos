@@ -6,7 +6,7 @@ import seaborn as sns
 from plotnine import ggplot, aes, geom_point, geom_line, labs
 
 # %%
-df = pd.read_csv('C:\\Users\\damir\\OneDrive\\CUNEF Work\\Machine Learning\\Datasets\\EU PSNW.csv')
+df = pd.read_csv('DATA/gov_10q_ggfa__custom_18984139_linear.csv')
 
 # %%
 df.head()
