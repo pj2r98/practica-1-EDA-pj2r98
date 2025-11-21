@@ -1,2 +1,9 @@
 # practica-1-EDA-pj2r98
 Entrega inicial de la práctica de la asignatura - EDA y planteamiento del problema
+Una institución financiera quiere comprar bonos de países dentro de la Unión Europea, adquiriendo una parte de su deuda o comprando emisiones de nueva deuda. Sin embargo, debido a los altos niveles de endeudamiento en la Unión Europea, no están seguros de en qué país invertir ni qué métrica financiera deberían utilizar para evaluar la solvencia del gobierno. En la literatura económica, la métrica habitual mediante la cual los economistas juzgan la solvencia de un país es su relación deuda/PIB, argumentando que el gobierno puede hipotecar la producción económica mediante la recaudación de impuestos para pagar sus deudas. Sin embargo, esta métrica tiene sus fallas. Algunos sostienen que no es práctico tratar al gobierno como capaz de hipotecar toda la economía mediante impuestos para saldar sus deudas. En su lugar, se argumenta que el patrimonio neto del sector público es una mejor métrica para evaluar la capacidad del gobierno de pagar sus deudas.
+
+Queremos analizar, utilizando regresiones lineales y modelos ARIMA, si el patrimonio neto del sector público refleja mejor el desempeño económico y la solvencia gubernamental en comparación con la tradicional relación deuda/PIB, con el fin de determinar qué métrica es la más adecuada para que la institución tome decisiones sobre la compra de deuda. Los datos que hemos elegido provienen de la Unión Europea e incluyen la tasa de crecimiento del PIB y el patrimonio neto del sector público desde los años 2018 hasta 2024 para cada país de la Unión Europea. También planeamos utilizar el patrimonio neto del sector público/PIB para considerar el tamaño de la economía del país, así como la relación deuda/PIB.
+
+La fuente de datos se encuentra aquí: https://ec.europa.eu/eurostat/databrowser/bookmark/4d38d831-8f3a-481b-aae8-c588c713267d?lang=en
+
+
